@@ -1,0 +1,25 @@
+HTTrack3.48-22+htsswf+htsjava launched on Sun, 02 Apr 2017 00:02:36 at http://campeonbet:C4mp30nb3tPass@www.campeonbet.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://campeonbet:C4mp30nb3tPass@www.campeonbet.com -O1 "m:\My Web Sites\Campeonbet" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:02:48	Error: 	"Not Found" (404) at link campeonbet:C4mp30nb3tPass@www.campeonbet.com/favicon.ico (from campeonbet:C4mp30nb3tPass@www.campeonbet.com/)
+00:07:23	Error: 	"Not Found" (404) at link campeonbet:C4mp30nb3tPass@www.campeonbet.com/css/fonts/{{env.lang}}.css (from campeonbet:C4mp30nb3tPass@www.campeonbet.com/)
+00:07:23	Error: 	"Not Found" (404) at link campeonbet:C4mp30nb3tPass@www.campeonbet.com/images/poker-page-new-tournaments.jpg?v=365 (from campeonbet:C4mp30nb3tPass@www.campeonbet.com/skins/campeonbet.com/css/skin.min.css?20170317.0938060.0.1)
+00:07:23	Error: 	"Not Found" (404) at link campeonbet:C4mp30nb3tPass@www.campeonbet.com/images/promotabbg.png?v=365 (from campeonbet:C4mp30nb3tPass@www.campeonbet.com/skins/campeonbet.com/css/skin.min.css?20170317.0938060.0.1)
+00:07:23	Error: 	"Not Found" (404) at link campeonbet:C4mp30nb3tPass@www.campeonbet.com/images/windows-icon-j.png?v=365 (from campeonbet:C4mp30nb3tPass@www.campeonbet.com/skins/campeonbet.com/css/skin.min.css?20170317.0938060.0.1)
+00:07:23	Error: 	"Not Found" (404) at link campeonbet:C4mp30nb3tPass@www.campeonbet.com/images/mac-icon-j.png?v=365 (from campeonbet:C4mp30nb3tPass@www.campeonbet.com/skins/campeonbet.com/css/skin.min.css?20170317.0938060.0.1)
+00:07:23	Error: 	"Not Found" (404) at link campeonbet:C4mp30nb3tPass@www.campeonbet.com/images/linux-icon-j.png?v=365 (from campeonbet:C4mp30nb3tPass@www.campeonbet.com/skins/campeonbet.com/css/skin.min.css?20170317.0938060.0.1)
+00:07:23	Error: 	"Not Found" (404) at link campeonbet:C4mp30nb3tPass@www.campeonbet.com/images/android-icon.png?v=365 (from campeonbet:C4mp30nb3tPass@www.campeonbet.com/skins/campeonbet.com/css/skin.min.css?20170317.0938060.0.1)
+00:07:23	Error: 	"Not Found" (404) at link campeonbet:C4mp30nb3tPass@www.campeonbet.com/skins/campeonbet.com/images/animation/stats_tl-hover.png?v=365 (from campeonbet:C4mp30nb3tPass@www.campeonbet.com/skins/campeonbet.com/css/skin.min.css?20170317.0938060.0.1)
+00:07:23	Error: 	"Not Found" (404) at link campeonbet:C4mp30nb3tPass@www.campeonbet.com/skins/campeonbet.com/images/tournament-bg.png?v=365 (from campeonbet:C4mp30nb3tPass@www.campeonbet.com/skins/campeonbet.com/css/skin.min.css?20170317.0938060.0.1)
+00:07:23	Error: 	"Not Found" (404) at link campeonbet:C4mp30nb3tPass@www.campeonbet.com/skins/campeonbet.com/images/bet-list-bg.png?v=365 (from campeonbet:C4mp30nb3tPass@www.campeonbet.com/skins/campeonbet.com/css/skin.min.css?20170317.0938060.0.1)
+00:07:23	Error: 	"Not Found" (404) at link campeonbet:C4mp30nb3tPass@www.campeonbet.com/skins/campeonbet.com/images/no-image-winnersn.png?v=365 (from campeonbet:C4mp30nb3tPass@www.campeonbet.com/skins/campeonbet.com/css/skin.min.css?20170317.0938060.0.1)
+00:07:23	Error: 	"Not Found" (404) at link campeonbet:C4mp30nb3tPass@www.campeonbet.com/skins/campeonbet.com/images/logo.png?v=1 (from campeonbet:C4mp30nb3tPass@www.campeonbet.com/skins/campeonbet.com/css/skin.min.css?20170317.0938060.0.1)
+00:07:29	Error: 	"Not Found" (404) at link campeonbet:C4mp30nb3tPass@www.campeonbet.com/images/backgrounds/bg-play-off.jpg?v=365 (from campeonbet:C4mp30nb3tPass@www.campeonbet.com/skins/campeonbet.com/css/skin.min.css?20170317.0938060.0.1)
+
+HTTrack Website Copier/3.48-22 mirror complete in 4 minutes 53 seconds : 165 links scanned, 150 files written (11386829 bytes overall) [7337588 bytes received at 25042 bytes/sec], 5412272 bytes transferred using HTTP compression in 29 files, ratio 23%, 8.2 requests per connection
+(14 errors, 0 warnings, 0 messages)

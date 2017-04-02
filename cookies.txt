@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.campeonbet.com	TRUE	/	FALSE	1999999999	__cfduid	d820c792c1d93dfc95bdc2db4e0637abc1491080556
+www.campeonbet.com	TRUE	/	FALSE	1999999999	SERVERID	s1
+
