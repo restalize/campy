@@ -2040,7 +2040,7 @@ body .better-homepage {
     background: #ffb703;
     border-left-style: solid;
     border-left-width: 3px;
-    border-left-color: #0089c4;
+    border-left-color: #e0a30b;
 }
 .live-cal16-day-selector-j .lc16-right-section-j ul {
     border-bottom: 2px solid #ffb703;
@@ -2697,9 +2697,7 @@ label.sign-in-checkbox-j span:before {
 .settings-b:before {
     content: url(../images/settings_icon.png);
 }
-.logo-contain-b {
-    width: 310px;
-}
+
 .drop-items-contain-b>ul>li:hover {
     background: #ffb703;
 }
