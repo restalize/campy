@@ -194,8 +194,8 @@
 }
 
 .signin-reg-buttons-b>ul>li>button:hover {
-    background: #073555;
-    border-color: #073555;
+    background: #ffcc00;
+    border-color: #ffcc00;
 }
 
 .settings-icon-contain {
@@ -225,7 +225,7 @@
 
 .header-nav-contain>ul>li.active>.top-menu-sub-a-t>a,
 .header-nav-contain>ul>li>.top-menu-sub-a-t>a:hover {
-    background: #073555;
+    background: #ffcc00;
     color: #fff;
     border-radius: 2px 2px 0 0;
 }
@@ -282,7 +282,7 @@
 
 .headerVersion_2 .subtop-game-menu-j,
 .headerVersion_2 .subtop-header-menu-j {
-    background: #073555;
+    background: #ffcc00;
 }
 
 .header-container-b {
@@ -1467,7 +1467,7 @@ search-casino-box-b .block-search input[type=text] {
     }
 }
 .classic-view-row-v3 {
-    background: rgba(23, 38, 48, 0.7);
+    background: rgba(23, 38, 48, 0.8);
 }
 .contain-competition-dashboard-v3.closed {
     animation: dashboard-c-closed-animate-b 240ms ease;
@@ -2497,21 +2497,21 @@ label.sign-in-checkbox-j span:before {
     width: 363px;
 }
 .current-game-info-line {
-    background: #008abf;
+    background: #166d9c;
 }
 .list-games-casino-view-b:hover .game-name-b-favorite {
     color: #ffffff;
-    background: #052b46;
+    background: #172630;
     font-weight: 700;
 }
 .casino-resize-buttons>div button {
     font-weight: 600;
 }
 .provider-navigation-j {
-    background: #052b46;
+    background: #172630;
 }
 .casino-game-contain .icon-delete.favourite a.favourite-active:before {
-    color: #00b0f0;
+    color: #ffb703;
 }
 .live-casino-games-by-ul-column li>i {
     background: rgb(5, 43, 70);
@@ -2520,12 +2520,12 @@ label.sign-in-checkbox-j span:before {
     background: url(../images/results_header.jpg) no-repeat 50% 50%/cover;
 }
 .footer-j .back-block-j button {
-    border: 1px solid #00b0f0;
-    background: #00b0f0;
+    border: 1px solid #ffb703;
+    background: #ffb703;
 }
 .footer-j .back-block-j button:hover {
-    background: #00b0f0;
-    border-color: #00b0f0;
+    background: #ffb703;
+    border-color: #ffb703;
 }
 
 /*footer b&w and hover normal*/
@@ -2543,31 +2543,31 @@ label.sign-in-checkbox-j span:before {
     box-shadow: inset 1px 0 0 #414141;
     border-left: 0px solid #0c0b0b;
     border-bottom: 0px solid #0c0b0b;
-    color: #008abf;
+    color: #166d9c;
 }
 .live-chat-b-contain {
     border-top: 0px solid #1b1b1b;
 }
 .mybets-filter-show-b>button {
-    background: #00B0F0;
+    background: #ffb703;
 }
 .first-level-history-tab>ul>li.active>span {
-    box-shadow: 0 -2px 0 #00B0F0 inset;
+    box-shadow: 0 -2px 0 #ffb703 inset;
 }
 .balance-view-tab {
-    color: #00B0F0;
+    color: #ffb703;
 }
 .all-main-tabs-b {
-    background: #052B46;
+    background: #172630;
 }
 .all-history-lightbox-content {
-    background: #052B46;
+    background: #172630;
 }
 .all-main-tabs-b>ul>li.active {
-    background: #008ABF;
+    background: #166d9c;
 }
 .all-main-tabs-b>ul>li:hover {
-    background: #00B0F0;
+    background: #ffb703;
 }
 
 /*.classic-version-euro2016, .container-p {
@@ -2638,20 +2638,20 @@ label.sign-in-checkbox-j span:before {
 .popup-wrapper-j .pu-button-wrap-j button.cancel-j+button,
 .popup-wrapper-j .pu-button-wrap-j button.cancel-j+button:hover,
 .popup-wrapper-j .pu-button-wrap-j button:hover {
-    background: #00b0f0;
-    border-color: #00b0f0;
+    background: #ffb703;
+    border-color: #ffb703;
 }
 .casino-game-contain .icon-delete.favourite.real a:before {
-    color: #00b0f0;
+    color: #ffb703;
 }
 .new-default-popup-j.error .popup-wrapper-j .pu-contain-j:before,
 .new-default-popup-j.info .popup-wrapper-j .pu-contain-j:before,
 .new-default-popup-j.success .popup-wrapper-j .pu-contain-j:before,
 .new-default-popup-j.warning .popup-wrapper-j .pu-contain-j:before {
-    background: #052b46;
+    background: #172630;
 }
 .current-game-info-line>p {
-    background: #00b0f0;
+    background: #ffb703;
 }
 .casino-resize-buttons>div button {
     height: 35px;
@@ -2659,7 +2659,7 @@ label.sign-in-checkbox-j span:before {
 }
 .slider-optional-b-casino>span.active {
     cursor: default;
-    background: #00b0f0;
+    background: #ffb703;
 }
 .slider-optional-b-casino>span {
     background: rgba(132, 132, 132, 0.8);
@@ -2679,7 +2679,7 @@ label.sign-in-checkbox-j span:before {
 }
 .my-profile-icon-b:before,
 .mybets-icon-box-b.user-icon-view:before {
-    color: #008abf;
+    color: #166d9c;
 }
 .body-wrapper:not(.VivaroBet):not(.VBET) .my-bets-b b.mybets-icon-box-b:before {
     content: url(../images/mybetsicon.png);
@@ -2701,30 +2701,30 @@ label.sign-in-checkbox-j span:before {
     width: 310px;
 }
 .drop-items-contain-b>ul>li:hover {
-    background: #00b0f0;
+    background: #ffb703;
 }
 .meshim_widget_components_chatButton_ButtonBar .favicon {
-    background: #052b46!important;
+    background: #172630!important;
 }
 .meshim_widget_components_chatButton_Button .button_bar {
-    background: #052b46!important;
+    background: #172630!important;
 }
 .duplicate .simple-nav-j {
     width: auto;
-    background: #00b0f0;
+    background: #ffb703;
 }
 .duplicate .simple-nav-j ul {
-    background: #00b0f0;
+    background: #ffb703;
 }
 .balance-view-progress-b .bonus-statistic-box {
-    background: #00b0f0;
+    background: #ffb703;
     height: 4px;
 }
 .balance-view-progress-b .progress-bonus-info-box>p:last-child>span:first-child {
-    color: #00b0f0;
+    color: #ffb703;
 }
 .skillgame-landing-j.poker-j .intro-s-j h1::after {
-    background: #052b46;
+    background: #172630;
 }
 .extended-license-footer>ul>li.gamble-logos-j>ul>li {
     filter: grayscale(100%);
@@ -2749,14 +2749,14 @@ label.sign-in-checkbox-j input[type=checkbox] {
     color: #ffffff;
 }
 .all-main-tabs-b>ul>li.active>i {
-    color: #052b46;
+    color: #172630;
 }
 .dndPlaceholder .game-score-multiset ul.title li,
 .dndPlaceholder .live-game-container .sport-title li,
 .multiview-contain .game-score-multiset ul.title li,
 .multiview-contain .live-game-container .sport-title li {
     vertical-align: middle;
-    background: #052b46;
+    background: #172630;
 }
 .contain-footer-block .payment-content-block {
     filter: grayscale(100%);
@@ -2767,14 +2767,14 @@ label.sign-in-checkbox-j input[type=checkbox] {
 }
 .popular-game-view-wrapper-v3 .market-title-v3 {
     background: rgb(5, 43, 70);
-    box-shadow: 0 -1px 0 #052b46 inset;
+    box-shadow: 0 -1px 0 #172630 inset;
 }
 .popular-game-dashboard-v3 {
     background: #fff;
 }
 .popular-game-view-wrapper-v3 {
-    background-color: #052b46;
-    border: 1px solid #052b46;
+    background-color: #172630;
+    border: 1px solid #172630;
 }
 .backgammon .headerVersion_2 .conteiner,
 .belote .headerVersion_2 .conteiner,
@@ -2789,7 +2789,7 @@ label.sign-in-checkbox-j input[type=checkbox] {
 .poker .headerVersion_2 .conteiner,
 .pokerklas .headerVersion_2 .conteiner,
 .poolbetting .headerVersion_2 .conteiner {
-    background: #052b46;
+    background: #172630;
 }
 .backgammon .headerVersion_2 .conteiner:before,
 .belote .headerVersion_2 .conteiner:before,
@@ -2809,10 +2809,10 @@ label.sign-in-checkbox-j input[type=checkbox] {
     display: block;
     position: absolute;
     width: 100%;
-    background: #052b46;
+    background: #172630;
     left: 0;
     bottom: 0;
-    border-bottom: solid 2px #052b46;
+    border-bottom: solid 2px #172630;
 }
 .backgammon .headerVersion_2 .conteiner.show-fix:after,
 .backgammon .headerVersion_2 .conteiner.show-game:after,
@@ -2845,7 +2845,7 @@ label.sign-in-checkbox-j input[type=checkbox] {
     display: block;
     position: absolute;
     width: 100%;
-    background: #052b46;
+    background: #172630;
     left: 0;
     top: 0;
 }
@@ -2876,7 +2876,7 @@ p.all-text-news-b.ng-binding {
     text-align: center;
     padding-top: 8px;
     width: 36px;
-    background: #052b46;
+    background: #172630;
     color: #ffffff;
 }
 .meshim_widget_components_chatButton_Button .button_bar {
@@ -2884,11 +2884,11 @@ p.all-text-news-b.ng-binding {
     max-width: 300px;
     height: 30px;
     color: #ffffff;
-    background: #052b46;
+    background: #172630;
 }
 .footer-j .back-block-j .age-restriction-j:before {
     background: none;
-    box-shadow: 0px 0px 0px #008abf inset;
+    box-shadow: 0px 0px 0px #166d9c inset;
     */ color: #fff;
     text-align: center;
     font: 16px/42px Arial, Helvetica, sans-serif;
@@ -2900,7 +2900,7 @@ p.all-text-news-b.ng-binding {
     width: 42px;
     height: 42px;
     background: none;
-    box-shadow: 0 0 0px #00b0f0 inset;
+    box-shadow: 0 0 0px #ffb703 inset;
     font: 0px/42px Arial, Helvetica, sans-serif;
     color: #fff;
     border-radius: 100%;
@@ -2951,10 +2951,10 @@ p.all-text-news-b.ng-binding {
     float: left;
     width: 100%;
     font: 12px/24px Arial, Helvetica, sans-serif;
-    color: #008abf;
+    color: #166d9c;
 }
 .open-f-types-b>ul>li:hover {
-    background: #008abf;
+    background: #166d9c;
     color: white;
 }
 .open-f-types-b>ul>li {
@@ -3004,7 +3004,7 @@ p.all-text-news-b.ng-binding {
 .date-p:before {
     font: 16px/18px icomoon;
     content: "\e907";
-    color: #008abf;
+    color: #166d9c;
 }
 .mini-form-box-b .form-control {
     background: #f5f5f5;
@@ -3036,7 +3036,7 @@ p.all-text-news-b.ng-binding {
     cursor: pointer;
 }
 .second-level-history-tab>ul>li.active {
-    background: #008abf;
+    background: #166d9c;
     color: #ffffff;
     cursor: default;
 }
@@ -3049,7 +3049,7 @@ p.all-text-news-b.ng-binding {
     box-shadow: 0 0px 0 #202020 inset;
 }
 .mybets-filter-show-b>button {
-    background: #00b0f0;
+    background: #ffb703;
 }
 .id-view-tab {
     color: #ffb703;
@@ -3077,23 +3077,23 @@ p.all-text-news-b.ng-binding {
     transition: background 200ms;
 }
 .all-main-tabs-b>ul>li>i {
-    color: #00b0f0;
+    color: #ffb703;
 }
 .all-main-tabs-b>ul>li.active>i {
-    color: #00b0f0;
+    color: #ffb703;
 }
 .full-bet-history-information-contain {
     background: #f5f5f5;
 }
 .balance-view-progress-b .bonus-statistic-box {
-    background: #00b0f0;
+    background: #ffb703;
     height: 4px;
 }
 .balance-view-progress-b .progress-bonus-info-box>p:last-child>span:first-child {
-    color: #00b0f0;
+    color: #ffb703;
 }
 .first-level-history-tab>ul>li:hover {
-    background: #008abf;
+    background: #166d9c;
 }
 .first-level-history-tab>ul>li {
     margin: 0 0px 0 0;
@@ -3105,7 +3105,7 @@ p.all-text-news-b.ng-binding {
     box-shadow: 0 0px 0 #00b367 inset;
 }
 .first-level-history-tab>ul>li.active {
-    background: #00b0f0;
+    background: #ffb703;
     color: #fff;
     box-shadow: 0px 0 0 #2f2f2f;
     pointer-events: none;
@@ -3179,7 +3179,7 @@ p.all-text-news-b.ng-binding {
     font-weight: bold;
 }
 .bet-info-list-separator-b.active>ul>li.bet-status-icon-column-b {
-    background: #00b0f0;
+    background: #ffb703;
 }
 .icon-st-bet {
     font: 16px/36px icomoon;
@@ -3187,7 +3187,7 @@ p.all-text-news-b.ng-binding {
 }
 .bet-info-list-separator-b>ul>li.bet-status-icon-column-b {
     width: 36px;
-    background: #008abf;
+    background: #166d9c;
     transition: background 150ms;
 }
 .bet-info-list-separator-b:nth-child(even)>ul>li.bet-odds-info-column,
@@ -3240,9 +3240,9 @@ p.all-text-news-b.ng-binding {
     border-bottom: 0px solid #0e0e0e;
 }
 .live-calendar-16-content-j li.coeff-column-j.active {
-    background: #008abf;
-    border-top-color: #008abf;
-    box-shadow: inset 0px 0 0 #008abf;
+    background: #166d9c;
+    border-top-color: #166d9c;
+    box-shadow: inset 0px 0 0 #166d9c;
     color: #fff;
 }
 .live-calendar-16-content-j ul.filter-j li {
@@ -3255,7 +3255,7 @@ p.all-text-news-b.ng-binding {
     text-transform: uppercase;
 }
 .footer-button {
-    background: #052b46;
+    background: #172630;
 }
 .footer-button {
     text-align: center;
@@ -3278,13 +3278,13 @@ p.all-text-news-b.ng-binding {
     height: 30px;
 }
 .meshim_widget_components_chatButton_ButtonBar .favicon {
-    background: #052b46;
+    background: #172630;
 }
 .meshim_widget_components_chatButton_Button .button_bar {
-    background: #008abf;
+    background: #166d9c;
 }
 .header-nav-contain>ul>li.sub-menu-item>.top-menu-sub-a-t>a {
-    background: #052b46;
+    background: #172630;
 }
 .withdraw-status-j {
     float: left;
@@ -3313,28 +3313,28 @@ p.all-text-news-b.ng-binding {
     border-bottom: 0px solid #0e0e0e;
 }
 .superbet-contain-view-v3 {
-    background: #052b46;
+    background: #172630;
 }
 .freebet-wrapper-view-v3>.superbet-contain-view-v3.active .pin-betslip-v3>.multi-view-sw-v3 .switcher-view-b,
 .superbet-contain-view-v3.active .pin-betslip-v3>.multi-view-sw-v3 .switcher-view-b {
     box-sizing: border-box;
-    background: #00b0f0;
+    background: #ffb703;
 }
 .md-progress-circular.md-theme .md-inner .md-left .md-half-circle,
 .md-progress-circular.md-theme .md-inner .md-right .md-half-circle {
-    border-top-color: #008abf;
+    border-top-color: #166d9c;
 }
 .md-progress-circular.md-theme .md-inner .md-left .md-half-circle {
-    border-left-color: #00b0f0;
+    border-left-color: #ffb703;
 }
 .bet-info-list-separator-b.open-view .game-finished-tooltip {
-    background: #008abf;
+    background: #166d9c;
 }
 .bet-info-list-separator-b.open-view .game-finished-tooltip:before {
-    border-color: #008abf transparent transparent;
+    border-color: #166d9c transparent transparent;
 }
 .provider-navigation-j li {
-    border-color: #052b46;
+    border-color: #172630;
 }
 .bet-info-list-separator-b>ul>li.bet-stake-info-column {
     background: #2a343e;
@@ -3367,7 +3367,7 @@ div.disabled-field {
     background: #ffffff;
 }
 .cashier-button button {
-    background: #00b0f0;
+    background: #ffb703;
 }
 input:-webkit-autofill,
 textarea:-webkit-autofill,
@@ -3458,13 +3458,13 @@ max-width:100%;
     background: #2a343e;
 }
 .bonus-function-b>button {
-    background: #00b0f0;
+    background: #ffb703;
 }
 .new-default-popup-j.success .pu-contain-j:after {
-    color: #00b0f0;
+    color: #ffb703;
 }
 .full-bet-history-information-contain.bonus-contain .bet-info-list-separator-b>ul>li.bet-status-column-b.active-status>span {
-    color: #00b0f0;
+    color: #ffb703;
 }
 .select-box-period-b>ul>li {
     border-top: 1px solid #2a343e;
@@ -3483,23 +3483,23 @@ max-width:100%;
     background: #ff0000;
 }
 .footer-j .old-version-link-j a {
-    border: 1px solid #00b0f0;
+    border: 1px solid #ffb703;
 }
 .footer-j .old-version-link-j a:hover {
-    background: #00b0f0;
-    border-color: #00b0f0;
+    background: #ffb703;
+    border-color: #ffb703;
     color: #fff;
 }
 .footer-j .old-version-link-j a.flash {
-    border-color: #00b0f0;
+    border-color: #ffb703;
 }
 .footer-j .old-version-link-j a.flash:hover {
-    background: #00b0f0;
-    border-color: #00b0f0;
+    background: #ffb703;
+    border-color: #ffb703;
     color: #fff;
 }
 .settings-nav-contain ul li a span.count {
-    background: #00b0f0;
+    background: #ffb703;
     color: #fff;
     font-size: 11px;
     font-weight: 700;
@@ -3509,7 +3509,7 @@ max-width:100%;
 .settings-nav-contain ul li.active a {
     background: #2f2f2f;
     color: #c1c1c1;
-    box-shadow: inset 2px 0 #00b0f0;
+    box-shadow: inset 2px 0 #ffb703;
 }
 .block-sign-in-form .bet-history {
     background: #2a343e;
@@ -3519,7 +3519,7 @@ max-width:100%;
 .settings-nav-contain ul li.active a {
     background: #46515d;
     color: #c1c1c1;
-    box-shadow: inset 2px 0 #00b0f0;
+    box-shadow: inset 2px 0 #ffb703;
 }
 .left-block-history,
 .right-block-history.message.compose .All-Bets-history,
@@ -3541,33 +3541,33 @@ max-width:100%;
     color: #d6d6d6;
 }
 .block-slider {
-    background: #052b46;
+    background: #172630;
     box-shadow: 0 1px 10px #0D0F18;
 }
 .favorite-icon-dashboard.icon.active,
 .favorite-icon-dashboard.icon:hover {
-    color: #00b0f0;
+    color: #ffb703;
 }
 .feedback-button {
-    border-right: 36px solid #00b0f0;
-    border-bottom: 36px solid #00b0f0;
+    border-right: 36px solid #ffb703;
+    border-bottom: 36px solid #ffb703;
 }
 .game-finished-v3 {
     color: #ffffff;
 }
 .game-header-view-v3.Soccer {
-    box-shadow: 0 -1px 0 #008abf inset, inset 0 -2px 0 #0e0e0e;
+    box-shadow: 0 -1px 0 #166d9c inset, inset 0 -2px 0 #0e0e0e;
 }
 .separator-contain-nav.user-nav-view-b .drop-items-contain-b>ul>li>b {
-    background: #008abf;
+    background: #166d9c;
     border-radius: 6px;
-    box-shadow: 0 0 3px #008abf;
+    box-shadow: 0 0 3px #166d9c;
 }
 .slider-addow-box-b>ul>li {
     color: #ffb703;
 }
 .slider-addow-box-b {
-    background: #052b46;
+    background: #172630;
 }
 .load-more-j p {
     color: #2a343e;
@@ -3576,13 +3576,13 @@ max-width:100%;
     color: #ffb703;
 }
 .results-table-j ul li span {
-    color: #00b0f0;
+    color: #ffb703;
     padding-left: 5px;
 }
 .title-slider-games-b>h3>span {
     display: inline-block;
     padding: 2px 24px;
-    background: #052b46;
+    background: #172630;
     border-radius: 25px;
 }
 .live-casino-second-new-j .j-resize-950-1280 {
