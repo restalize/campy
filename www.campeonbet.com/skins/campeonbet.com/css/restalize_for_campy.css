@@ -3653,3 +3653,102 @@ max-width:100%;
     font-weight: 700;
     width: 100%;
 }
+
+.button-sign:disabled, .cashier-button button:disabled {
+    background: #777;
+    color: #222;
+}
+
+.settings-info-contain .chekcbox-j label input+span:before {
+    background-color: #565656;
+}
+
+.closed-game-icon-v3 {
+    font: 8px/30px icomoon;
+}
+
+.mini-header-p {
+    float: left;
+    width: 100%;
+    height: 28px;
+    background: #2a343e;
+    box-sizing: border-box;
+}
+
+.mini-block-close-p {
+    color: #cacaca;
+}
+
+.mini-select-p {
+    background: #2a343e;
+}
+
+.bet-info-list-separator-b>ul>li.bet-odds-info-column {
+    width: 100px;
+    border-left: 1px solid #222;
+    border-right: 1px solid #222;
+    background: #2a343e;
+}
+
+.bet-info-list-separator-b>ul>li.bet-odds-info-column>span {
+    color: #ffb703;
+    font: 12px/36px Arial,Helvetica,sans-serif;
+    font-weight: 700;
+}
+
+.right-block-news span {
+    color: #cecece;
+    font: 12px/16px Arial,Helvetica,sans-serif;
+    font-weight: 700;
+    width: 100%;
+}
+
+.header-nav-contain {
+    text-align: left;
+}
+
+.contain-footer-block .payment-content-block>ul {
+    background: url(../images/custom-footer-sprite7893.png) no-repeat 50% 50%;
+}
+
+.single-bet-maxbet-view-v3 {
+    font: 11px/30px Roboto,sans-serif;
+    color: #ccc;
+}
+
+.single-bet-stake-repeat-v3>i {
+    box-shadow: -1px 0 0 #052b46 inset;
+    color: #ccc;
+}
+
+.bet-win-view-v3>span {
+    color: #00da83;
+}
+
+.arrow-rotate-filter-v3 {
+    color: #939393;
+}
+
+.footer-button.footer-button-open {
+    background: #ffb703;
+}
+
+.footer-j .footer-nav-b ul li a {
+    color: #b3b3b3;
+}
+
+.prematch-header-row-v3>ul>li>p {
+    color: #ababab;
+}
+
+.prematch-header-row-v3>ul>li:first-child {
+    border-right: 1px solid #455c6c;
+}
+
+.status-icon-separator-b {
+    color: #aaa;
+}
+.game-additional-info-v3 {
+    margin: -2px 0 5px;
+}
+
