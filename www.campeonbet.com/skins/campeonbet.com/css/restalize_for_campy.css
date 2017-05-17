@@ -8,7 +8,7 @@
 
 .single-game-item-v3.active .team-name-1-v3>p {
     width: 100%;
-    font: 12px/18px Arial, Helvetica, sans-serif;
+    font: 12px/18px Roboto, Helvetica, sans-serif;
     color: #fff;
     white-space: nowrap;
     text-overflow: ellipsis;
@@ -136,7 +136,7 @@
 .drop-items-contain-b>ul>li {
     border-bottom: 0px solid #2f2f2f;
     background: #46515d;
-    font: 12px/34px Arial, Helvetica, sans-serif;
+    font: 12px/34px Roboto, Helvetica, sans-serif;
     color: #d9d7d6;
 }
 
@@ -159,7 +159,7 @@
 }
 
 .subtop-header-menu-j>ul>li>a {
-    font: 400 11px/36px Arial, Helvetica, sans-serif;
+    font: 400 11px/36px Roboto, Helvetica, sans-serif;
     letter-spacing: 0.4px;
 }
 
@@ -184,7 +184,7 @@
     border: 0px solid #ffb703;
     background: #ffcc00;
     padding: 0 15px;
-    font: 12px/16px Arial, Helvetica, sans-serif;
+    font: 12px/16px Roboto, Helvetica, sans-serif;
     color: #fff;
     text-transform: uppercase;
     cursor: pointer;
@@ -231,7 +231,7 @@
 }
 
 .header-nav-contain>ul>li>.top-menu-sub-a-t>a {
-    font: 14px/40px Arial, Helvetica, sans-serif;
+    font: 14px/40px Roboto, Helvetica, sans-serif;
     padding: 0 15px;
     margin: 0;
     letter-spacing: 0.4px;
@@ -242,7 +242,7 @@
 .simple-nav-j p {
     color: #dedede;
     transition: 240ms color;
-    font: 12px/34px Arial, Helvetica, sans-serif;
+    font: 12px/34px Roboto, Helvetica, sans-serif;
     position: relative;
     letter-spacing: 0.4px;
 }
@@ -329,7 +329,7 @@
     right: -12px;
     width: 45px;
     height: 40px;
-    font: 14px/40px Arial, Helvetica, sans-serif;
+    font: 14px/40px Roboto, Helvetica, sans-serif;
     background: #ffcc00;
 }
 
@@ -338,7 +338,7 @@ body .better-homepage .row:first-of-type {
 }
 
 .Info-text-view-market-v3>p {
-    font: 13px/16px Arial, Helvetica, sans-serif;
+    font: 13px/16px Roboto, Helvetica, sans-serif;
     color: #ccc;
 }
 
@@ -519,7 +519,7 @@ body .better-homepage .row:first-of-type {
     position: absolute;
     right: 8px;
     top: 9px;
-    font: 10px/19px Arial, Helvetica, sans-serif;
+    font: 10px/19px Roboto, Helvetica, sans-serif;
     color: #818181;
     padding: 0 5px;
     background: #fff;
@@ -566,7 +566,7 @@ body .better-homepage .row:first-of-type {
 }
 
 .region-item-v3>p {
-    font: 12px/35px Arial, Helvetica, sans-serif;
+    font: 12px/35px Roboto, Helvetica, sans-serif;
     color: #333;
 }
 
@@ -619,7 +619,7 @@ body .better-homepage .row:first-of-type {
 .icon-separator-v3.market-count-v3>span {
     background: #ffb703;
     color: #fff;
-    font: 11px/12px Arial, Helvetica, sans-serif;
+    font: 11px/12px Roboto, Helvetica, sans-serif;
     padding: 3px 0;
     width: 30px;
     text-align: center;
@@ -679,7 +679,7 @@ body .better-homepage .row:first-of-type {
 .view-switcher-v3>ul>li>button {
     background: #e9edf0;
     height: 36px;
-    font: 12px/36px Arial, Helvetica, sans-serif;
+    font: 12px/36px Roboto, Helvetica, sans-serif;
     color: #333;
     padding: 0 8px 0 12px;
 }
@@ -697,7 +697,7 @@ body .better-homepage .row:first-of-type {
 
 .team-name-1-v3>p {
     width: 100%;
-    font: 12px/18px Arial, Helvetica, sans-serif;
+    font: 12px/18px Roboto, Helvetica, sans-serif;
     color: #333;
     white-space: nowrap;
     text-overflow: ellipsis;
@@ -707,7 +707,7 @@ body .better-homepage .row:first-of-type {
 .game-info-mini-v3>p {
     width: 100%;
     color: #777;
-    font: 11px/16px Arial, Helvetica, sans-serif;
+    font: 11px/16px Roboto, Helvetica, sans-serif;
 }
 
 .games-list-mini-view-v3 .blocked-icon-v3 {
@@ -799,7 +799,7 @@ body .better-homepage .row:first-of-type {
 }
 
 .competition-title-v3>p {
-    font: 12px/35px Arial, Helvetica, sans-serif;
+    font: 12px/35px Roboto, Helvetica, sans-serif;
     color: #fff;
     letter-spacing: 0.4px;
 }
@@ -890,7 +890,7 @@ body .better-homepage .row:first-of-type {
 /* Sports Titles */
 .sports-item-v3>p {
     width: 100%;
-    font: 13px/41px Arial, Helvetica, sans-serif;
+    font: 13px/41px Roboto, Helvetica, sans-serif;
     color: #333;
     white-space: nowrap;
     text-overflow: ellipsis;
@@ -908,7 +908,7 @@ body .better-homepage .row:first-of-type {
     padding: 0 16px 0 0;
     top: 0;
     color: #818181;
-    font: 12px/41px Arial, Helvetica, sans-serif;
+    font: 12px/41px Roboto, Helvetica, sans-serif;
     transition: opacity 240ms;
 }
 .arrow-view-v3 {
@@ -954,7 +954,7 @@ body .better-homepage .row:first-of-type {
 }
 .team-names-date-icons-v3>p>span {
     width: 100%;
-    font: 12px/30px Arial, Helvetica, sans-serif;
+    font: 12px/30px Roboto, Helvetica, sans-serif;
     color: #333;
     height: 30px;
 }
@@ -1003,7 +1003,7 @@ body .better-homepage .row:first-of-type {
 .live-game-container .sport-title {
     height: 36px;
     padding-left: 10px;
-    font: 13px/35px Arial, Helvetica, sans-serif;
+    font: 13px/35px Roboto, Helvetica, sans-serif;
     font-weight: 700;
     color: #fff;
     cursor: default;
@@ -1011,7 +1011,7 @@ body .better-homepage .row:first-of-type {
 .game-additional-info-v3>p {
     width: 100%;
     padding: 0 0 0 20px;
-    font: 11px/14px Arial, Helvetica, sans-serif;
+    font: 11px/14px Roboto, Helvetica, sans-serif;
     color: #ccc;
     letter-spacing: 0.3px;
 }
@@ -1087,14 +1087,14 @@ body .better-homepage .row:first-of-type {
 .mini-box-market-info-v3>span {
     text-align: right;
     padding: 0 10px;
-    font: 13px/28px Arial, Helvetica, sans-serif;
+    font: 13px/28px Roboto, Helvetica, sans-serif;
     font-weight: bold;
     height: 100%;
     color: #000000;
 }
 .mini-box-market-info-v3>p {
     padding: 0;
-    font: 12px/28px Arial, Helvetica, sans-serif;
+    font: 12px/28px Roboto, Helvetica, sans-serif;
     color: #333333;
     width: 100%;
     height: 28px;
@@ -1126,7 +1126,7 @@ body .better-homepage .row:first-of-type {
 .market-name-icon-row-v3>h3 {
     display: table-cell;
     padding: 0;
-    font: 12px/28px Arial, Helvetica, sans-serif;
+    font: 12px/28px Roboto, Helvetica, sans-serif;
     color: #000;
     position: relative;
     width: 100%;
@@ -1149,7 +1149,7 @@ body .better-homepage .row:first-of-type {
 
 /* //////////////////     Start of Right Column      /////// */
 .price-change-settings-v3>ul>li {
-    font: 12px/14px Arial, Helvetica, sans-serif;
+    font: 12px/14px Roboto, Helvetica, sans-serif;
     color: #ffffff;
 }
 .price-change-settings-v3>ul {
@@ -1211,12 +1211,12 @@ body .better-homepage .row:first-of-type {
     display: table-cell;
     text-align: right;
     padding: 0 0 0 10px;
-    font: 14px/17px Arial, Helvetica, sans-serif;
+    font: 14px/17px Roboto, Helvetica, sans-serif;
     color: #01f98b;
 }
 .bet-win-view-v3>p {
     color: #c1c1c1;
-    font: 12px/14px Arial, Helvetica, sans-serif;
+    font: 12px/14px Roboto, Helvetica, sans-serif;
     text-align: right;
 }
 .mini-list-events-b-v3>ul>li {
@@ -1247,7 +1247,7 @@ body .better-homepage .row:first-of-type {
     height: 30px;
 }
 .multi-view-sw-v3>p {
-    font: 12px/30px Arial, Helvetica, sans-serif;
+    font: 12px/30px Roboto, Helvetica, sans-serif;
     color: #fff;
 }
 .pin-betslip-v3>.multi-view-sw-v3 .switcher-view-b {
@@ -1287,7 +1287,7 @@ body .better-homepage .row:first-of-type {
 }
 .single-event-info-view-v3>ul>li>p {
     width: 100%;
-    font: 12px/16px Arial, Helvetica, sans-serif;
+    font: 12px/16px Roboto, Helvetica, sans-serif;
     color: #b3b3b3;
     padding: 0 80px 0 0;
 }
@@ -1301,7 +1301,7 @@ body .better-homepage .row:first-of-type {
     width: 100%;
     height: 32px;
     box-shadow: 0 0 0 1px #b2bbbf inset;
-    font: 13px/30px Arial, Helvetica, sans-serif;
+    font: 13px/30px Roboto, Helvetica, sans-serif;
     color: #333;
     padding: 0 10px;
     transition: box-shadow 240ms;
@@ -1326,7 +1326,7 @@ body .better-homepage .row:first-of-type {
     box-shadow: 0 0 0 1px #b2bbbf inset;
     color: #c1c1c1;
     text-align: center;
-    font: 12px/30px Arial, Helvetica, sans-serif;
+    font: 12px/30px Roboto, Helvetica, sans-serif;
     text-transform: uppercase;
     background: 0 0;
 }
@@ -1342,14 +1342,14 @@ body .better-homepage .row:first-of-type {
     padding: 0 0 0 7px;
 }
 .title-event-b-v3>span {
-    font: 12px/18px Arial, Helvetica, sans-serif;
+    font: 12px/18px Roboto, Helvetica, sans-serif;
     color: #333;
 }
 .bet-price-view-b-v3>span {
     box-sizing: border-box;
     float: right;
     display: block;
-    font: 13px/14px Arial, Helvetica, sans-serif;
+    font: 13px/14px Roboto, Helvetica, sans-serif;
     font-weight: bold;
     color: #000000;
 }
@@ -1371,7 +1371,7 @@ body .better-homepage .row:first-of-type {
 }
 .betslip-text-info-v3>p {
     width: 100%;
-    font: 12px/26px Arial, Helvetica, sans-serif;
+    font: 12px/26px Roboto, Helvetica, sans-serif;
     color: #818181;
     padding: 3px 0 5px 20px;
     position: relative;
@@ -1407,7 +1407,7 @@ body .better-homepage .row:first-of-type {
 }
 .providers-nav-casino>ul>li {
     color: #e9edf0;
-    font: 12px/32px Arial, Helvetica, sans-serif;
+    font: 12px/32px Roboto, Helvetica, sans-serif;
 }
 .providers-nav-casino>ul>li>a.active,
 .providers-nav-casino>ul>li>a:hover {
@@ -1419,7 +1419,7 @@ body .better-homepage .row:first-of-type {
 .left-column-casino-nav>ul>li {
     border-bottom: 1px solid #e9edf0;
     color: #818181;
-    font: 13px/38px Arial, Helvetica, sans-serif;
+    font: 13px/38px Roboto, Helvetica, sans-serif;
     padding: 0 15px;
 }
 .left-column-casino-nav>ul>li.active,
@@ -1441,7 +1441,7 @@ search-casino-box-b .block-search input[type=text] {
 .deposit-alert-contain.casino .game-name-b-favorite,
 .game-name-b-favorite {
     background: #ffffff;
-    font: 12px/30px Arial, Helvetica, sans-serif;
+    font: 12px/30px Roboto, Helvetica, sans-serif;
     color: #333;
 }
 .casino-resize-buttons>div button {
@@ -1494,12 +1494,12 @@ search-casino-box-b .block-search input[type=text] {
 }
 .title-championship-v3>p {
     color: #ffffff;
-    font: 11px/30px Arial, Helvetica, sans-serif;
+    font: 11px/30px Roboto, Helvetica, sans-serif;
     text-transform: uppercase;
 }
 .title-competition-dashboard-v3>h5 {
     color: #fff;
-    font: 12px/30px Arial, Helvetica, sans-serif;
+    font: 12px/30px Roboto, Helvetica, sans-serif;
 }
 .title-competition-dashboard-v3 {
     height: 30px;
@@ -1580,7 +1580,7 @@ body .better-homepage {
     color: #ffcc00;
 }
 .mini-box-market-info-v3>span {
-    font: 14px/28px arial, Helvetica, sans-serif;
+    font: 14px/28px Roboto, Helvetica, sans-serif;
     color: #000;
 }
 .single-events-b-v3:hover {
@@ -1775,7 +1775,7 @@ body .better-homepage {
     width: 100%;
     font-weight: 700;
     color: #ffffff;
-    font: 16px/18px Arial, Helvetica, sans-serif!important;
+    font: 16px/18px Roboto, Helvetica, sans-serif!important;
     box-shadow: none;
     text-transform: none;
     text-shadow: none;
@@ -1783,7 +1783,7 @@ body .better-homepage {
 }
 .block-slider.popup .form-register-layout.signin .button-sign ul li a {
     border: none;
-    font: 11px/14px Arial, Helvetica, sans-serif;
+    font: 11px/14px Roboto, Helvetica, sans-serif;
     color: #ffffff;
     position: relative;
     padding: 0 0 0 15px;
@@ -1805,7 +1805,7 @@ body .better-homepage {
     box-sizing: border-box;
     background: #ffffff;
     text-transform: uppercase;
-    font: 14px Arial, Helvetica, sans-serif;
+    font: 14px Roboto, Helvetica, sans-serif;
     height: 36px;
     color: black;
     cursor: pointer;
@@ -1876,7 +1876,7 @@ body .better-homepage {
 .deposit-alert-contain.casino .game-name-b-favorite,
 .game-name-b-favorite {
     height: 35px;
-    font: 13px/36px Arial, Helvetica, sans-serif;
+    font: 13px/36px Roboto, Helvetica, sans-serif;
 }
 .dropdown-menu table tr td .btn-default.active,
 .dropdown-menu table tr td .btn-default.active:hover {
@@ -1945,7 +1945,7 @@ body .better-homepage {
 .send-message-j input[type=text] {
     background: #ffffff;
     box-sizing: border-box;
-    font: 12px Arial, Helvetica, sans-serif;
+    font: 12px Roboto, Helvetica, sans-serif;
     height: 36px;
     width: 100%;
     border: 0 solid #555;
@@ -2028,7 +2028,7 @@ body .better-homepage {
 .left-column-casino-nav>ul>li {
     border-bottom: 0 solid #e9edf0;
     color: #818181;
-    font: 14px/40px Arial, Helvetica, sans-serif;
+    font: 14px/40px Roboto, Helvetica, sans-serif;
     background-color: white;
     margin-bottom: 1px;
     padding: 0 15px;
@@ -2110,7 +2110,7 @@ body .better-homepage {
     text-overflow: ellipsis;
     overflow: hidden;
     color: #ffffff;
-    font: 13px/30px Arial, Helvetica, sans-serif;
+    font: 13px/30px Roboto, Helvetica, sans-serif;
     padding: 0 10px;
 }
 .markets-count-view-v3>span {
@@ -2177,7 +2177,7 @@ body .better-homepage {
 .register-steps-b label,
 .registration-list-columns-j .reg-list-item-wrapper-j {
     color: #ffffff;
-    font: 12px/14px Arial, Helvetica, sans-serif;
+    font: 12px/14px Roboto, Helvetica, sans-serif;
 }
 .results-center-ba-j {
     box-shadow: 0 3px 0 #172630;
@@ -2283,7 +2283,7 @@ body .better-homepage {
 }
 .todays-results-j>ul>li {
     color: black;
-    font: 12px/18px Arial, Helvetica, sans-serif;
+    font: 12px/18px Roboto, Helvetica, sans-serif;
     border-bottom: 0 solid #0d0a0a;
     box-shadow: 0 0 0 #393939;
     margin-bottom: 5px;
@@ -2323,7 +2323,7 @@ label.sign-in-checkbox-j {
     box-sizing: border-box;
     padding-left: 25px;
     color: #ffffff;
-    font: 12px/14px Arial, Helvetica, sans-serif;
+    font: 12px/14px Roboto, Helvetica, sans-serif;
 }
 label.sign-in-checkbox-j span:after,
 label.sign-in-checkbox-j span:before {
@@ -2482,7 +2482,7 @@ label.sign-in-checkbox-j span:before {
     background: #2a343e;
 }
 .settings-info-contain p {
-    font: 12px/16px Arial, Helvetica, sans-serif;
+    font: 12px/16px Roboto, Helvetica, sans-serif;
     color: #ffcc00;
 }
 .drop-items-contain-b>ul>li:hover {
@@ -2655,7 +2655,7 @@ label.sign-in-checkbox-j span:before {
 }
 .casino-resize-buttons>div button {
     height: 35px;
-    font: 14px/36px Arial, Helvetica, sans-serif;
+    font: 14px/36px Roboto, Helvetica, sans-serif;
 }
 .slider-optional-b-casino>span.active {
     cursor: default;
@@ -2889,7 +2889,7 @@ p.all-text-news-b.ng-binding {
     box-shadow: 0px 0px 0px #166d9c inset;
     */ color: #fff;
     text-align: center;
-    font: 16px/42px Arial, Helvetica, sans-serif;
+    font: 16px/42px Roboto, Helvetica, sans-serif;
     content: url(../images/18plusicon.png);
 }
 .footer-j .back-block-j .age-restriction-j {
@@ -2899,7 +2899,7 @@ p.all-text-news-b.ng-binding {
     height: 42px;
     background: none;
     box-shadow: 0 0 0px #ffb703 inset;
-    font: 0px/42px Arial, Helvetica, sans-serif;
+    font: 0px/42px Roboto, Helvetica, sans-serif;
     color: #fff;
     border-radius: 100%;
     text-align: center;
@@ -2928,7 +2928,7 @@ p.all-text-news-b.ng-binding {
     width: calc(100% - 607px - 156px);
     float: left;
     color: #dadada;
-    font: 14px/20px Arial, Helvetica, sans-serif;
+    font: 14px/20px Roboto, Helvetica, sans-serif;
     position: relative;
 }
 .balance-lightbox-j article>div:not(.compare-payments) {
@@ -2948,7 +2948,7 @@ p.all-text-news-b.ng-binding {
 .type-switcher-filter-box>p {
     float: left;
     width: 100%;
-    font: 12px/24px Arial, Helvetica, sans-serif;
+    font: 12px/24px Roboto, Helvetica, sans-serif;
     color: #166d9c;
 }
 .open-f-types-b>ul>li:hover {
@@ -2959,7 +2959,7 @@ p.all-text-news-b.ng-binding {
     float: left;
     width: 100%;
     box-sizing: border-box;
-    font: 12px/22px Arial, Helvetica, sans-serif;
+    font: 12px/22px Roboto, Helvetica, sans-serif;
     color: #c1c1c1;
     background: #2a343e;
     border-bottom: 1px solid #222;
@@ -2974,7 +2974,7 @@ p.all-text-news-b.ng-binding {
     background: 0 0;
     border: none;
     color: #efefef;
-    font: 12px/30px Arial, Helvetica, sans-serif;
+    font: 12px/30px Roboto, Helvetica, sans-serif;
     position: relative;
 }
 .bet-info-list-separator-b:nth-child(even) {
@@ -2985,7 +2985,7 @@ p.all-text-news-b.ng-binding {
     width: 100%;
     height: 16px;
     box-sizing: border-box;
-    font: 11px/16px Arial, Helvetica, sans-serif;
+    font: 11px/16px Roboto, Helvetica, sans-serif;
     color: #f5f5f5;
     margin: 0 0 5px;
 }
@@ -3026,7 +3026,7 @@ p.all-text-news-b.ng-binding {
     display: inline-block;
     padding: 0 15px;
     text-align: center;
-    font: 12px/30px Arial, Helvetica, sans-serif;
+    font: 12px/30px Roboto, Helvetica, sans-serif;
     color: #c1c1c1;
     min-width: 120px;
     border-right: 1px solid #222b35;
@@ -3055,7 +3055,7 @@ p.all-text-news-b.ng-binding {
 .all-main-tabs-b>ul>li>p>span {
     float: left;
     width: 100%;
-    font: 11px/12px Arial, Helvetica, sans-serif;
+    font: 11px/12px Roboto, Helvetica, sans-serif;
     text-transform: uppercase;
 }
 .all-main-tabs-b>ul>li:hover {
@@ -3161,7 +3161,7 @@ p.all-text-news-b.ng-binding {
     background: #f5f5f5;
     padding: 0 0 0 14px;
     color: #444;
-    font: 12px Arial, Helvetica, sans-serif;
+    font: 12px Roboto, Helvetica, sans-serif;
     vertical-align: middle;
 }
 .bet-info-list-separator-b {
@@ -3227,7 +3227,7 @@ p.all-text-news-b.ng-binding {
 }
 .popular-game-team-name-v3>table tr td>span {
     box-sizing: border-box;
-    font: 16px/18px Arial, Helvetica, sans-serif;
+    font: 16px/18px Roboto, Helvetica, sans-serif;
     color: #ffb703;
 }
 .bonus-view-mini-b {
@@ -3249,7 +3249,7 @@ p.all-text-news-b.ng-binding {
 }
 .live-calendar-16-content-j ul.filter-j li {
     height: 30px;
-    font: 10px/30px Arial, Helvetica, sans-serif;
+    font: 10px/30px Roboto, Helvetica, sans-serif;
     text-transform: uppercase;
 }
 .footer-button {
@@ -3263,7 +3263,7 @@ p.all-text-news-b.ng-binding {
     background: #2a343e;
 }
 .user-info-box-b>h5 {
-    font: 12px/16px Arial, Helvetica, sans-serif;
+    font: 12px/16px Roboto, Helvetica, sans-serif;
     color: #8aaebb;
     padding: 3px 0 0;
 }
@@ -3474,7 +3474,7 @@ max-width:100%;
 }
 .settings-info-contain label,
 .settings-info-contain p {
-    font: 12px/16px Arial, Helvetica, sans-serif;
+    font: 12px/16px Roboto, Helvetica, sans-serif;
     color: #b3b3b3;
 }
 .count-info-box-b {
@@ -3535,7 +3535,7 @@ max-width:100%;
 }
 .settings-info-contain label,
 .settings-info-contain p {
-    font: 12px/16px Arial, Helvetica, sans-serif;
+    font: 12px/16px Roboto, Helvetica, sans-serif;
     color: #d6d6d6;
 }
 .block-slider {
@@ -3644,12 +3644,12 @@ max-width:100%;
 }
 .bet-info-list-separator-b>ul>li.bet-odds-info-column>span {
     color: #ffb703;
-    font: 12px/36px Arial, Helvetica, sans-serif;
+    font: 12px/36px Roboto, Helvetica, sans-serif;
     font-weight: 700;
 }
 .right-block-news span {
     color: #cecece;
-    font: 12px/16px Arial, Helvetica, sans-serif;
+    font: 12px/16px Roboto, Helvetica, sans-serif;
     font-weight: 700;
     width: 100%;
 }
@@ -3692,13 +3692,13 @@ max-width:100%;
 
 .bet-info-list-separator-b>ul>li.bet-odds-info-column>span {
     color: #ffb703;
-    font: 12px/36px Arial,Helvetica,sans-serif;
+    font: 12px/36px Roboto,Helvetica,sans-serif;
     font-weight: 700;
 }
 
 .right-block-news span {
     color: #cecece;
-    font: 12px/16px Arial,Helvetica,sans-serif;
+    font: 12px/16px Roboto,Helvetica,sans-serif;
     font-weight: 700;
     width: 100%;
 }
