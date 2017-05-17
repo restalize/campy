@@ -3755,3 +3755,23 @@ max-width:100%;
 .blacktext {
     color:#000000;
 }
+.contain-footer-block .paymen-icons-list {
+    background: #0e181f;
+    display: block!important;
+}
+.animation-video-title-row-v3 {
+    background: #172630;
+    background-color: #172630;
+}
+.current-game-info-line {
+    background: #ffb703;
+}
+.drop-items-contain-b>ul>li.active:after, .drop-items-contain-b>ul>li.active:hover:after, .drop-items-contain-b>ul>li:hover:after {
+    background: #ffcc00;
+}
+.md-progress-circular.md-theme .md-inner .md-left .md-half-circle, .md-progress-circular.md-theme .md-inner .md-right .md-half-circle {
+    border-top-color: #ffcc00;
+}
+.md-progress-circular.md-theme .md-inner .md-right .md-half-circle {
+    border-right-color: #ffcc00;
+}
