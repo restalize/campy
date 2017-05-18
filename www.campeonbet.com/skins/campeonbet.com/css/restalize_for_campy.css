@@ -3871,3 +3871,13 @@ max-width:100%;
     border-top-color: #ffcc00;
     border-bottom-color: #ffcc00;
 }
+.single-events-b-v3.active:hover>.mini-box-market-info-v3>p, .single-events-b-v3.active:hover>.mini-box-market-info-v3>span, .single-events-b-v3.active>.mini-box-market-info-v3>p, .single-events-b-v3.active>.mini-box-market-info-v3>span {
+    color: #172631;
+}
+.button-container-j button {
+    color: #172631;
+    background: #ffb703;
+}
+.live-cal16-day-selector-j .lc16-right-section-j ul li span {
+    color: #ffffff;
+}
