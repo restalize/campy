@@ -3818,3 +3818,22 @@ max-width:100%;
     color: #172630;
     font-weight: 500;
 }
+.left-column-casino-nav>ul>li.active, .left-column-casino-nav>ul>li:hover {
+    color: #172630;
+}
+.providers-nav-casino>ul>li>a.active {
+    color: #172630;
+    font-weight: 600;
+}
+.providers-nav-casino>ul>li>a {
+    color: rgba(23, 38, 48, 0.68);
+}
+.providers-nav-casino>ul>li>a:hover {
+    color: #172630;
+}
+.casino-resize-buttons>div button {
+    color: #172630;
+}
+.game-img-box-b:before {
+    background-color: rgba(255, 204, 0, 0.13);
+}
