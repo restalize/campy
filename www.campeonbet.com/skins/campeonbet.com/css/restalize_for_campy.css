@@ -3797,3 +3797,20 @@ max-width:100%;
 .multi-view-sw-v3>p {
     color: #172630;
 }
+.icon-separator-v3.market-count-v3>span {
+    color: #172630;
+}
+.subtop-header-menu-j>ul>li.active>a {
+    color: #172630;
+}
+.subtop-header-menu-j>ul>li>a {
+    color: rgba(23, 38, 48, 0.82);
+}
+.subtop-header-menu-j>ul>li>a:hover {
+    color: #172630;
+    font-weight: 500;
+}
+.anime-video-switcher-v3>ul>li.active:before {
+    color: #172630;
+    font-weight: 700;
+}
