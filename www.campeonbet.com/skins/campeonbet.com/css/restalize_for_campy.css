@@ -3837,3 +3837,7 @@ max-width:100%;
 .game-img-box-b:before {
     background-color: rgba(255, 204, 0, 0.13);
 }
+.upcoming-column-title-v3>h2>span, .virtual-games .v-sports-tab ul li.active {
+    background: #ffb703;
+    color: #000;
+}
