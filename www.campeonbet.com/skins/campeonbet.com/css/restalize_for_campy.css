@@ -3858,3 +3858,16 @@ max-width:100%;
     color: #172631;
     pointer-events: none;
 }
+.single-game-item-v3.active .team-name-1-v3>p {
+    color: #172631;
+}
+.single-game-item-v3.active .team-name-1-v3>span {
+    color: #172631;
+}
+.single-game-item-v3.active .game-info-mini-v3>p {
+    color: #717171;
+}
+.md-progress-circular.md-theme .md-inner .md-gap {
+    border-top-color: #ffcc00;
+    border-bottom-color: #ffcc00;
+}
