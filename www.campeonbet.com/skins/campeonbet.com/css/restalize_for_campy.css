@@ -3777,31 +3777,31 @@ max-width:100%;
     border-right-color: #ffcc00;
 }
 .signin-reg-buttons-b>ul>li>button {
-    color: #172630;}
+    color: #172631;}
 .view-switcher-v3>ul>li.active>button>b, .view-switcher-v3>ul>li:hover>button>b {
-    color: #172630;
+    color: #172631;
 }
 .header-nav-contain>ul>li.new-top-nav a:before {
-    color: #172630;
+    color: #172631;
     font-weight: 700;
 }
 .mini-filters-box-v3>ul>li>.time-filter-v3>p {
-    color: #172630;
+    color: #172631;
 }
 .lmb-sport-select-j ul li span {
-    color: #172630;
+    color: #172631;
 }
 .filter-row-v3>ul>li.active>i {
-    color: #172630;
+    color: #172631;
 }
 .multi-view-sw-v3>p {
-    color: #172630;
+    color: #172631;
 }
 .icon-separator-v3.market-count-v3>span {
-    color: #172630;
+    color: #172631;
 }
 .subtop-header-menu-j>ul>li.active>a {
-    color: #172630;
+    color: #172631;
 }
 .subtop-header-menu-j>ul>li>a {
     color: rgba(23, 38, 48, 0.82);
@@ -3850,6 +3850,11 @@ max-width:100%;
     color: #fff;
 }
 .subtop-header-menu-j>ul>li.active>a {
-    color: #172630;
+    color: #172631;
     font-weight: 600;
+}
+.euro2016-changeStatsMode-j input.active {
+    background: #ffb703;
+    color: #172631;
+    pointer-events: none;
 }
