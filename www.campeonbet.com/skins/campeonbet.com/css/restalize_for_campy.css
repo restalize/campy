@@ -3816,10 +3816,11 @@ max-width:100%;
 }
 .subtop-header-menu-j>ul>li.active>a {
     color: #172630;
-    font-weight: 500;
+    font-weight: 600;
 }
 .left-column-casino-nav>ul>li.active, .left-column-casino-nav>ul>li:hover {
     color: #172630;
+    font-weight:800;
 }
 .providers-nav-casino>ul>li>a.active {
     color: #172630;
@@ -3840,4 +3841,15 @@ max-width:100%;
 .upcoming-column-title-v3>h2>span, .virtual-games .v-sports-tab ul li.active {
     background: #ffb703;
     color: #000;
+}
+.live-casino-games-by-ul-column li>i {
+    background: rgb(23, 38, 48);
+}
+.subtop-header-menu-j>ul>li.active>a {
+    box-shadow: inset 0 -2px 0 #172630;
+    color: #fff;
+}
+.subtop-header-menu-j>ul>li.active>a {
+    color: #172630;
+    font-weight: 600;
 }
