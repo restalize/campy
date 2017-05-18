@@ -3755,6 +3755,7 @@ max-width:100%;
 .blacktext {
     color:#000000;
 }
+/* By rafapag changes */
 .contain-footer-block .paymen-icons-list {
     background: #0e181f;
     display: block!important;
@@ -3774,4 +3775,19 @@ max-width:100%;
 }
 .md-progress-circular.md-theme .md-inner .md-right .md-half-circle {
     border-right-color: #ffcc00;
+}
+.signin-reg-buttons-b>ul>li>button {
+    color: #172630;}
+.view-switcher-v3>ul>li.active>button>b, .view-switcher-v3>ul>li:hover>button>b {
+    color: #172630;
+}
+.header-nav-contain>ul>li.new-top-nav a:before {
+    color: #172630;
+    font-weight: 700;
+}
+.mini-filters-box-v3>ul>li>.time-filter-v3>p {
+    color: #172630;
+}
+.lmb-sport-select-j ul li span {
+    color: #172630;
 }
