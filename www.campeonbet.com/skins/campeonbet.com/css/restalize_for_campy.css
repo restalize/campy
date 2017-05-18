@@ -3814,3 +3814,7 @@ max-width:100%;
     color: #172630;
     font-weight: 700;
 }
+.subtop-header-menu-j>ul>li.active>a {
+    color: #172630;
+    font-weight: 500;
+}
