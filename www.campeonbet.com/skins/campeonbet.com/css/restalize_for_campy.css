@@ -3884,3 +3884,10 @@ max-width:100%;
 .contain-footer-block .payment-content-block>ul {
     background: url(../images/logo-banks.png) no-repeat 50% 50%;
 }
+.live-casino-games-by-ul-column li:hover>i, .live-casino-games-by-ul-column li button {
+    background: #ffcc00;
+    color: #172630;
+}
+.casino-resize-buttons>div button+button {
+    background: rgba(0, 0, 0, 0.65);
+}
