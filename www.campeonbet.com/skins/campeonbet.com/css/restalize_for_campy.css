@@ -3791,3 +3791,9 @@ max-width:100%;
 .lmb-sport-select-j ul li span {
     color: #172630;
 }
+.filter-row-v3>ul>li.active>i {
+    color: #172630;
+}
+.multi-view-sw-v3>p {
+    color: #172630;
+}
