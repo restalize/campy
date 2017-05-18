@@ -3820,7 +3820,7 @@ max-width:100%;
 }
 .left-column-casino-nav>ul>li.active, .left-column-casino-nav>ul>li:hover {
     color: #172630;
-    font-weight:800;
+    font-weight:600;
 }
 .providers-nav-casino>ul>li>a.active {
     color: #172630;
@@ -3880,4 +3880,7 @@ max-width:100%;
 }
 .live-cal16-day-selector-j .lc16-right-section-j ul li span {
     color: #ffffff;
+}
+.contain-footer-block .payment-content-block>ul {
+    background: url(../images/logo-banks.png) no-repeat 50% 50%;
 }
