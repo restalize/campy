@@ -3755,7 +3755,92 @@ max-width:100%;
 .blacktext {
     color:#000000;
 }
-/* By rafapag changes */
+
+
+.settings-nav-contain h3.user-icon:before {
+    color: #88abb8;
+}
+
+.settings-info-contain .disabled-field {
+    background: 0 0;
+    border: 1px solid #5e666f;
+    border-radius: 0;
+}
+
+.settings-info-contain input[type=email], .settings-info-contain input[type=number], .settings-info-contain input[type=password], .settings-info-contain input[type=text], input#uploadFilePassport {
+    font: 12px Arial,Helvetica,sans-serif;
+    color: #ffffff;
+    background: 0 0;
+    border: 1px solid #5e666f;
+    border-radius: 0;
+}
+
+
+.cashier-button button {
+    color: #172631;
+}
+
+.closed-arrow-b {
+    background: #2a343e;
+    box-shadow: 0 1px 0 #46515d inset;
+}
+
+
+
+.contain-footer-block .paymen-icons-list {
+    background: #132029;
+    display: block!important;
+}
+
+
+.promotions-section-j h1 {
+    color: #172631;
+}
+
+
+.sports-item-v3.Soccer.active>.arrow-view-v3:before {
+    color: #172631;
+}
+
+
+
+
+.tab-contain-bets {
+    background: #2a343e;
+    border-bottom: 1px solid #46515d;
+}
+
+
+.body-wrapper .centr-tabs-block ul {
+    border-right: 1px solid #172630;
+    border-left: 1px solid #172630;
+}
+
+.game-header-view-v3.Soccer {
+    box-shadow: 0 -1px 0 #ffb703 inset, inset 0 -2px 0 #0e0e0e;
+}
+
+
+.body-wrapper .centr-tabs-block ul li {
+    background: 0 0;
+    border-left: 1px solid #172630;
+    border-right: 1px solid #172630;
+    font: 16px/20px Arial,Helvetica,sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* /////////////////// By rafapag changes /////////////////// */
 .contain-footer-block .paymen-icons-list {
     background: #0e181f;
     display: block!important;
@@ -3808,11 +3893,11 @@ max-width:100%;
 }
 .subtop-header-menu-j>ul>li>a:hover {
     color: #172630;
-    font-weight: 500;
+    font-weight: 600;
 }
 .anime-video-switcher-v3>ul>li.active:before {
     color: #172630;
-    font-weight: 700;
+    font-weight: 600;
 }
 .subtop-header-menu-j>ul>li.active>a {
     color: #172630;
