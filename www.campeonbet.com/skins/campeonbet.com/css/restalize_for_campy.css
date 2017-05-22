@@ -2012,11 +2012,12 @@ body .better-homepage {
 }
 .intro-section-j .button-group-j button:hover {
     background: #ffcc00;
+    color: #172631;
     border-color: #172630;
 }
 .intro-section-j .button-group-j li+li button:hover {
     background: #ffcc00;
-    color: #fff;
+    color: #172631;
     border-color: #172630;
 }
 .lc16-sport-selector-j ul li {
@@ -3975,4 +3976,17 @@ max-width:100%;
 }
 .casino-resize-buttons>div button+button {
     background: rgba(0, 0, 0, 0.65);
+}
+
+.skillgame-landing-j.poker-j .intro-section-j .button-group-j li+li button:before {
+    display: block;
+    width: 30px;
+    height: 30px;
+    border-right: 1px solid #172631;
+    content: "\e6e0";
+    font: 16px/30px icomoon;
+    position: absolute;
+    top: 7px;
+    text-align: left;
+    left: 17px;
 }
