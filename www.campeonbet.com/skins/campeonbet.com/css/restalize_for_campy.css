@@ -1,10 +1,12 @@
+/* COPY FROM WILLIAM AT JULY PLUS MAY  */
+
 /* part JULY Starting */
 
 
 
 .container-p {
 
-    background: #052b46;
+    background: #172630;
 }
 
 
@@ -24,11 +26,11 @@
 .list-news ul li h3 {
     float: left;
     width: 100%;
-    height: auto;
+    min-height: 60px;
 }
 
 .list-news ul li h3 a {
-    font: 30px/40px Roboto,sans-serif;
+    font: 25px/30px Roboto,sans-serif;
 }
 
 /* end of promo page */
@@ -38,70 +40,6 @@
 
 
 
-
-
-.arrow-view-v3 {
-    color: #cfd4da;
-}
-
-
-.contain-footer-block .payment-content-block>ul {
-    background: url(../images/custom-footer-sprite7893.png) no-repeat 50% 50%;
-}
-
-
-.general-text-list p {
-    color: #3a4044;
-}
-
-.single-sport-box-v3.sport-closed>.sport-name-up-game-v3>.arrow-view-v3:before {
-    content: "\e670";
-    color: #7b8191;
-}
-
-
-.single-sport-box-v3 .sport-name-up-game-v3>.arrow-view-v3:before, .single-sport-box-v3c.sport-name-up-game-v3:hover>.arrow-view-v3:before {
-    color: #2f4254;
-}
-
-.sub-nav-filter-time-v3>ul>li {
-    color: #c3c3c3;
-}
-
-
-.lc16-sport-selector-j ul li {
-    color: #434e56;
-}
-
-
-.live-calendar-16-content-j li.coeff-column-j {
-    color: #333333;
-}
-
-.live-calendar-16-content-j .single-bet-locked:before {
-    color: #8e9fad;
-}
-
-.live-calendar-16-content-j li.more-column-j {
-    color: #333333;
-}
-
-.live-calendar-16-content-j li.time-column-j {
-    color: #333333;
-}
-
-
-.single-game-item-v3.no-events .team-name-1-v3>p {
-    color: #929496;
-}
-
-.search-box-v3 .block-search>input[type=text] {
-    box-shadow: 0 0 0 1px #5d7f9a inset;
-}
-
-.popup-wrapper-j .pu-contain-j p {
-    color: #5d7f9a;
-}
 
 .new-default-popup-j {
     background: rgba(14, 24, 33, 0.95);
@@ -120,15 +58,6 @@
     margin-bottom: 25px;
 }
 
-
-.drop-items-contain-b>ul>li:before {
-    background: #5d7f9a;
-}
-
-
-.centr-tabs-block ul li {
-    color: #96a2ab;
-}
 
 
 .extended-license-footer {
@@ -168,7 +97,7 @@
     float: left;
     width: 100%;
     height: 28px;
-    background: #2a343e;
+    background: #172630;
     box-sizing: border-box;
 }
 
@@ -177,14 +106,14 @@
 }
 
 .mini-select-p {
-    background: #2a343e;
+    background: #172630;
 }
 
 .bet-info-list-separator-b>ul>li.bet-odds-info-column {
     width: 100px;
     border-left: 1px solid #222;
     border-right: 1px solid #222;
-    background: #2a343e;
+    background: #172630;
 }
 
 .bet-info-list-separator-b>ul>li.bet-odds-info-column>span {
@@ -204,9 +133,6 @@
     text-align: left;
 }
 
-.contain-footer-block .payment-content-block>ul {
-    background: url(../images/custom-footer-sprite7893.png) no-repeat 50% 50%;
-}
 
 .single-bet-maxbet-view-v3 {
     font: 11px/30px Roboto,sans-serif;
@@ -214,7 +140,7 @@
 }
 
 .single-bet-stake-repeat-v3>i {
-    box-shadow: -1px 0 0 #052b46 inset;
+    box-shadow: -1px 0 0 #172630 inset;
     color: #ccc;
 }
 
@@ -227,7 +153,7 @@
 }
 
 .footer-button.footer-button-open {
-    background: #00b0f0;
+    background: #ffb703;
 }
 
 .footer-j .footer-nav-b ul li a {
@@ -272,7 +198,7 @@
     display: block;
     background: url(../images/1colorpixel.jpg);
     background-position: left;
-    background-color: #2a343e;
+    background-color: #172630;
     background-repeat: no-repeat;
     margin: 20px 0;
 }
@@ -288,7 +214,7 @@
 .promotions-menu-p {
     width: 100%;
     margin: 0 auto 10px;
-    box-shadow: 0 0px 0 #00b0f0;
+    box-shadow: 0 0px 0 #ffb703;
     overflow: hidden;
 }
 
@@ -297,7 +223,7 @@
     background: transparent;
     border-radius: 6px;
     border: 2px solid;
-    border-color: #00b0f0;
+    border-color: #ffb703;
 }
 
 .promotions-menu-p ul li:hover {
@@ -320,14 +246,14 @@
 
 
 body>.about .headerVersion_2 .conteiner, body>.backgammon .headerVersion_2 .conteiner, body>.belote .headerVersion_2 .conteiner, body>.external .headerVersion_2 .conteiner, body>.fantasy .headerVersion_2 .conteiner, body>.first_deposit_bonus .headerVersion_2 .conteiner, body>.first_deposit_bonus_and_20_free_spins .headerVersion_2 .conteiner, body>.gameCSB1providerCSBexid152000 .headerVersion_2 .conteiner, body>.games .headerVersion_2 .conteiner, body>.gameslanding .headerVersion_2 .conteiner, body>.livedealer .headerVersion_2 .conteiner, body>.poker .headerVersion_2 .conteiner, body>.pokerklas .headerVersion_2 .conteiner, body>.poolbetting .headerVersion_2 .conteiner, body>.vip-promos .headerVersion_2 .conteiner {
-    background: #052b46;
+    background: #172630;
 }
 
 
 
 body>.about .headerVersion_2 .conteiner:before, body>.backgammon .headerVersion_2 .conteiner:before, body>.belote .headerVersion_2 .conteiner:before, body>.external .headerVersion_2 .conteiner:before, body>.fantasy .headerVersion_2 .conteiner:before, body>.first_deposit_bonus .headerVersion_2 .conteiner:before, body>.first_deposit_bonus_and_20_free_spins .headerVersion_2 .conteiner:before, body>.gameCSB1providerCSBexid152000 .headerVersion_2 .conteiner:before, body>.games .headerVersion_2 .conteiner:before, body>.gameslanding .headerVersion_2 .conteiner:before, body>.livedealer .headerVersion_2 .conteiner:before, body>.poker .headerVersion_2 .conteiner:before, body>.pokerklas .headerVersion_2 .conteiner:before, body>.poolbetting .headerVersion_2 .conteiner:before, body>.vip-promos .headerVersion_2 .conteiner:before {
-    background: #052b46;
-    border-bottom: solid 0px #00b0f0;
+    background: #172630;
+    border-bottom: solid 0px #ffb703;
 }
 
 
@@ -354,7 +280,7 @@ body>.about .headerVersion_2 .conteiner:before, body>.backgammon .headerVersion_
 
 
 .block-meny-news.promo .list-news ul .active-news:after {
-    border-color: transparent transparent #2a343e;
+    border-color: transparent transparent #172630;
 }
 
 
@@ -400,12 +326,12 @@ body>.about .headerVersion_2 .conteiner:before, body>.backgammon .headerVersion_
 }
 
 .closed-arrow-b {
-    background: #2a343e;
+    background: #172630;
     box-shadow: 0 1px 0 #46515d inset;
 }
 
 .tab-contain-bets {
-    background: #2a343e;
+    background: #172630;
     border-bottom: 1px solid #46515d;
 }
 
@@ -413,7 +339,7 @@ body>.about .headerVersion_2 .conteiner:before, body>.backgammon .headerVersion_
 .body-wrapper .centr-tabs-block ul li.active-tab {
     background: 0 0;
     color: #fff;
-    box-shadow: 0 -3px 0 #00b0f0 inset;
+    box-shadow: 0 -3px 0 #ffb703 inset;
 }
 
 .body-wrapper .centr-tabs-block ul li {
@@ -445,7 +371,7 @@ body>.about .headerVersion_2 .conteiner:before, body>.backgammon .headerVersion_
     display: block;
     position: absolute;
     width: 100%;
-    background: #052b46;
+    background: #172630;
     left: 0;
     top: 0;
 }
@@ -453,7 +379,7 @@ body>.about .headerVersion_2 .conteiner:before, body>.backgammon .headerVersion_
 
 
 body>.about .headerVersion_2 .conteiner, body>.backgammon .headerVersion_2 .conteiner, body>.belote .headerVersion_2 .conteiner, body>.external .headerVersion_2 .conteiner, body>.fantasy .headerVersion_2 .conteiner, body>.first_deposit_bonus .headerVersion_2 .conteiner, body>.first_deposit_bonus_and_20_free_spins .headerVersion_2 .conteiner, body>.gameCSB1providerCSBexid152000 .headerVersion_2 .conteiner, body>.games .headerVersion_2 .conteiner, body>.gameslanding .headerVersion_2 .conteiner, body>.livedealer .headerVersion_2 .conteiner, body>.poker .headerVersion_2 .conteiner, body>.pokerklas .headerVersion_2 .conteiner, body>.poolbetting .headerVersion_2 .conteiner, body>.vip-promos .headerVersion_2 .conteiner {
-    background: #052b46;
+    background: #172630;
 }
 
 
