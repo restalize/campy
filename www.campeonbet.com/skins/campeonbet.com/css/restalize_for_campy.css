@@ -1,3 +1,42 @@
+/* starting from this */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.drop-items-contain-b>ul>li:hover {
+    color: #333;
+}
+
+.drop-items-contain-b>ul>li.active {
+    background: #ffb703;
+    color: #333;
+}
+
+
+
+.promotions-section-j .picture-container-s .read-more-link a {
+    background: #ffcc00;
+    color: #333;
+}
+
+
+
+
 /* COPY FROM WILLIAM AT JULY PLUS MAY  */
 
 /* part JULY Starting */
@@ -51,7 +90,7 @@
 }
 
 .block-slider.popup {
-    background: rgba(14, 24, 33, 0.95);
+        background: rgba(7, 13, 19, 0.95);
 }
 
 .button-confirm>button {
@@ -185,7 +224,7 @@
     float: left;
     width: 768px;
     height: 178px;
-    background: url(../images/signin_header.jpg) no-repeat 0 0px/contain;
+    background: url(../images/signin_header-copy_giffed.gif) no-repeat 0 0px/contain;
     background-position: 0;
     background-size: contain;
     margin: -30px -30px 0px;
