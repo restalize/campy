@@ -11,13 +11,102 @@ https://restalize.github.io/campy/www.campeonbet.com/skins/campeonbet.com/css/re
 
 
 
+.form-register-layout .partial-registration .register-steps-b { 
+
+padding-left:0px
+}
+
+
+.mixedWallet-j table button:hover {
+    background: #ffd633;
+    border-color: #ffd633;
+    color: #333;
+}
+
+.mixedWallet-j form .input-block-mixedWJ div, .mixedWallet-j form .select-block-mixedWJ div {
+    position: relative;
+    border: 1px solid #46515d;
+    background-color: #2a343e;
+    overflow: hidden;
+    height: 36px;
+}
+
+.mixedWallet-j form>button {
+    color: #333;
+}
+
+
+.mixedWallet-j form .input-block-mixedWJ input[type=number], .mixedWallet-j form .select-block-mixedWJ input[type=number] {
+    border: 1px solid #46515d;
+    background-color: #2a343e;
+    color: #9fa3a9;
+}
+
+.mixedWallet-j form .input-block-mixedWJ button:hover, .mixedWallet-j form .select-block-mixedWJ button:hover {
+    background: #FC0;
+    border-color: #FC0;
+    color: #333;
+}
+
+.mixedWallet-j table tr.total-balance-table-wallet-mixed td {
+    background-color: #46515d;
+    color: #c1c1c1;
+}
+
+.mixedWallet-j table tr td {
+    background-color: #2a343e;
+}
+
+.mixedWallet-j {
+    background-color: #172630;
+    color: #cac1c1;
+    font: 400 12px/14px Roboto,sans-serif;
+}
 
 
 
+.open-f-types-b>ul>li:hover {
+    background: #ffb703;
+    color: #333;
+}
+
+.date-p:before {
+    font: 16px/18px icomoon;
+    content: "\e907";
+    color: #ffb703;
+}
+
+.second-level-history-tab>ul>li.active {
+    background: #ffb703;
+    color: #333;
+}
+
+.first-level-history-tab>ul>li.active {
+    background: #ffb703;
+    color: #333;
+    box-shadow: 0 0 0 #2f2f2f;
+    pointer-events: none;
+}
+
+.first-level-history-tab>ul>li:hover {
+    background: #ffb703;
+        color: #333;
+}
+
+.live-cal16-day-selector-j .lc16-right-section-j ul li:hover, .promotions-section-j {
+    background: #ffb703;
+}
+
+@media screen and (min-width: 1600px)
+.classic-view-wrapper-v3 {
+    background-position-y: -120px;
+}
 
 
-
-
+.time-title-view-v3>.arrow-view-v3, .title-championship-v3>.arrow-view-v3 {
+    line-height: 26px;
+    color: #a3b1c1;
+}
 
 
 label.results-live-j input+i {
