@@ -1,10 +1,42 @@
 
 
+/*
+https://restalize.github.io/campy/www.campeonbet.com/skins/campeonbet.com/css/restalize_for_campy.css
+*/
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+label.results-live-j input+i {
+    background-color: #e9edf0;
+}
+
+.quick-bet-form-b-v3>ul>li>button:hover, .save-settings-button-v3>button:hover {
+    color: #333;
+}
+
+
+.mini-filters-box-v3>ul>li>button {
+    color: #333;
+}
+
+.footer-j .back-block-j button {
+
+    color: #333;
+}
 
 
 .promotions-menu-p .promotions-baner-p>span {
@@ -68,7 +100,7 @@
 
 
 .lmb-table-j li:last-child:hover {
-    background-color: rgba(6, 16, 23, 0.4);
+    background-color: rgba(6, 16, 23, 0.6);
 }
 
 
@@ -76,7 +108,6 @@
 .lmb-table-j li:hover .market-info-b span {
     color: #172630;
     background-color: rgba(255, 204, 0, 0.38);
-    padding: 4px;
     width: 100%;
 }
 
