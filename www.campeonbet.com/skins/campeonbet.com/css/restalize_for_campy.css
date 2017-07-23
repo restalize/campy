@@ -1,202 +1,158 @@
 
+/* jul 22 */
 
-.form-register-layout .partial-registration .register-steps-b { 
 
-padding-left:0px
+
+
+
+
+
+
+
+.slider-optional-b-casino {
+
+    background: rgba(0, 0, 0, 0);
 }
-
-
-.mixedWallet-j table button:hover {
-    background: #ffd633;
-    border-color: #ffd633;
-    color: #333;
-}
-
-.mixedWallet-j form .input-block-mixedWJ div, .mixedWallet-j form .select-block-mixedWJ div {
-    position: relative;
-    border: 1px solid #46515d;
-    background-color: #2a343e;
-    overflow: hidden;
-    height: 36px;
-}
-
-.mixedWallet-j form>button {
-    color: #333;
-}
-
-
-.mixedWallet-j form .input-block-mixedWJ input[type=number], .mixedWallet-j form .select-block-mixedWJ input[type=number] {
-    border: 1px solid #46515d;
-    background-color: #2a343e;
-    color: #9fa3a9;
-}
-
-.mixedWallet-j form .input-block-mixedWJ button:hover, .mixedWallet-j form .select-block-mixedWJ button:hover {
-    background: #FC0;
-    border-color: #FC0;
-    color: #333;
-}
-
-.mixedWallet-j table tr.total-balance-table-wallet-mixed td {
-    background-color: #46515d;
-    color: #c1c1c1;
-}
-
-.mixedWallet-j table tr td {
-    background-color: #2a343e;
-}
-
-.mixedWallet-j {
-    background-color: #172630;
-    color: #cac1c1;
-    font: 400 12px/14px Roboto,sans-serif;
-}
-
-
-
-.open-f-types-b>ul>li:hover {
-    background: #ffb703;
-    color: #333;
-}
-
-.date-p:before {
-    font: 16px/18px icomoon;
-    content: "\e907";
-    color: #ffb703;
-}
-
-.second-level-history-tab>ul>li.active {
-    background: #ffb703;
-    color: #333;
-}
-
-.first-level-history-tab>ul>li.active {
-    background: #ffb703;
-    color: #333;
-    box-shadow: 0 0 0 #2f2f2f;
-    pointer-events: none;
-}
-
-.first-level-history-tab>ul>li:hover {
-    background: #ffb703;
-        color: #333;
-}
-
-.live-cal16-day-selector-j .lc16-right-section-j ul li:hover, .promotions-section-j {
-    background: #ffb703;
-}
-
-@media screen and (min-width: 1600px)
-.classic-view-wrapper-v3 {
-    background-position-y: -120px;
-}
-
-
-.time-title-view-v3>.arrow-view-v3, .title-championship-v3>.arrow-view-v3 {
-    line-height: 26px;
-    color: #a3b1c1;
-}
-
-
-label.results-live-j input+i {
-    background-color: #e9edf0;
-}
-
-.quick-bet-form-b-v3>ul>li>button:hover, .save-settings-button-v3>button:hover {
-    color: #333;
-}
-
-
-.mini-filters-box-v3>ul>li>button {
-    color: #333;
-}
-
-.footer-j .back-block-j button {
-
-    color: #333;
-}
-
 
 .promotions-menu-p .promotions-baner-p>span {
-    color: rgba(255, 255, 255, 0);
+    float: left;
+    display: block;
+    margin: 0 18px;
+    font: 26px/66px icomoon;
+    display: none;
+}
+
+.bet-info-list-separator-b>ul>li.bet-status-column-b.has-cash-out .cash-out-button .cashoutbet-icon-history {
+
+    margin: -5px 10px 0px 0;
+}
+
+.cashoutbet-icon-history, .printbet-icon-history, .superbet-icon-history {
+    font: 21px/37px icomoon;
+}
+
+.block-meny-news.promo .promo-bonus-title {
+    float: left;
+    width: 100%;
+    font: 40px/44px Roboto,sans-serif;
+    color: #fff;
+    padding: 0 0 50px;
+}
+
+.list-news ul li h3 a {
+    color: #ffffff;
+}
+
+.list-news ul li h3 a {
+    font: 20px/24px Roboto,sans-serif;
+}
+
+.cashoutbet-icon-history:before {
+    content: url(../images/icon_cashout.png)!important;
+    color: #05a5d4;
 }
 
 
-.virtual-games .virtuals-switch-results-wrapper>ul>li>button {
-    color: #172630;
+
+/* START Cloned from William sent */
+
+
+
+/* 22 jul */
+
+
+
+
+
+
+
+.providers-nav-casino>ul>li>a:hover {
+    color: #fbfbfb;
+    border: solid 1px white inside;
+    box-shadow: inset 0px 10px 15px 1px rgba(150, 112, 9, 0.4);
+    border-radius: 30px;
+    transition: box-shadow 0.3s ease-out;
+    height: 30px;
+}
+
+.list-games-casino-view-b:hover>a {
+    border-color: white;
+    box-shadow: 0 1px 10px rgba(64, 57, 17, 0.5);
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.list-games-casino-view-b>a, .save-games-contain .games-slider ul>.list-games-casino-view-b>a {
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.game-img-box-b {
+    box-shadow: none;
 }
 
 
-.live-calendar-16-content-j li.coeff-column-j {
-    color: #172630;
+.market-icons-view-v3>ul {
+    box-sizing: border-box;
+    float: right;
+    padding: 0px 0 3px;
+    display: table;
 }
 
-.live-cal16-day-selector-j .lc16-right-section-j ul li.active span, .live-cal16-day-selector-j .lc16-right-section-j ul li.active span:last-child {
-    color: #172630;
-}
-
-.competition-title-v3:hover {
-    background: #273a46;
-}
-
-.single-events-b-v3:hover>.mini-box-market-info-v3>span {
-    color: #172630;
-}
-
-
-.title-competition-dashboard-v3>.arrow-view-v3 {
-    line-height: 32px;
-    color: #172630;
+.cashout-icon-market-v3:before {
+    box-sizing: border-box;
+    content: url(../images/icon_cashout.png)!important;
+    color: #ffb703;
+    position: relative;
+    top: 4px;
 }
 
 
-.title-competition-dashboard-v3>h5 {
-    color: #333;
+.market-title-v3>.arrow-view-v3 {
+    padding-right: 4px;
 }
 
-.game-score.soccer-template {
-    padding: 28px 0 32px;
+.icon-separator-v3 {
+    color: #899bad;
 }
 
-.current-game-info-line>p {
-    background: #1f4a67;
+.favorite-icon-market-v3:before {
+    color: #899bad;
 }
 
-.current-game-info-line>p {
-    display: inline-block;
-    margin: 1px 0 0;
-    color: #3deffb;
-    height: 20px;
-    padding-top: 1px;
-    font: 12px/21px Roboto,sans-serif;
+.market-icons-view-v3>ul>li {
+    border-right: 1px solid rgba(117, 115, 96, 0.25);
+}
+
+.market-icons-view-v3>ul {
+    box-sizing: border-box;
+    float: right;
+    padding: 1px 0 3px;
+    display: table;
+}
+
+.market-icons-view-v3>ul>li {
+    min-width: 35px;
+    font: 12px/20px Roboto,sans-serif;
+    padding: 0px 8px;
+    color: #7a94ad;
+}
+
+
+.sports-item-v3:hover .arrow-view-v3 {
+    box-sizing: border-box;
+    color: #96afc5;
 }
 
 
 .block-slider.popup .register-information-b>h2 {
-    color: #fc0;
+    color: #ffb703;
 }
 
-
-.lmb-table-j li:last-child:hover {
-    background-color: rgba(6, 16, 23, 0.6);
-}
-
-
-
-.lmb-table-j li:hover .market-info-b span {
-    color: #172630;
-    background-color: rgba(255, 204, 0, 0.38);
-    width: 100%;
+.arrow-view-v3 {
+    color: rgba(155, 174, 197, 0);
 }
 
 
 
-.lmb-table-j li:last-child {
-    color: #fc0;
-    background-color: rgba(6, 16, 23, 0.7);
-}
 
 
-.product-list-contain>ul>li:hover>a>button {
-    color: #172630;
-}
+
