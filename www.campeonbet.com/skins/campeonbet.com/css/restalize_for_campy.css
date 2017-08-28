@@ -1,3 +1,130 @@
+.popup-wrapper-j .pu-button-wrap-j button.cancel-j+button, .popup-wrapper-j .pu-button-wrap-j button.cancel-j+button:hover, .popup-wrapper-j .pu-button-wrap-j button:hover {
+    color: #000;
+}
+
+/*  //////  START OF COPY FROM WILLIAM  ///// */
+
+
+
+.current-game-info-line>p {
+    background: #172630;
+    color: #ffc83f;
+}
+
+
+
+.empety-bonus-info>p {
+    color: #5f5f5f;
+}
+
+
+.bet-info-list-separator-b.title>ul>li, .bet-info-list-separator-b.title>ul>li.bet-type-column-b {
+    color: #5f5f5f;
+
+}
+
+.balance-lightbox-j article .form-j label:not(.notthis), .balance-lightbox-j article form label:not(.notthis) {
+    color: #d6d6d6;
+}
+
+.balance-lightbox-j section>div>ul {
+    color: #5f5f5f;
+}
+
+.balance-lightbox-j aside ul li {
+    background-color: #f5f5f5;
+}
+
+
+.balance-lightbox-j aside ul li.active {
+    box-shadow: inset 3px 0 0 #ffcc00;
+    background: #ffffff;
+}
+
+.extended-license-footer>div {
+
+    padding: 20px 0;
+}
+
+.account-link-b {
+    margin: 10px 0 0;
+}
+
+.logo-form-b {
+    margin: -30px -30px -20px;
+}
+
+.header-nav-contain>ul:first-child {
+    padding: 0 32px;
+}
+
+.settings-info-contain label, .settings-info-contain p {
+
+    color: #9e9e9e;
+}
+
+.block-sign-in-form .select-j select, .contain-cashier-forms .select-block select, .left-block-history .form-sign-in .select-block select {
+    padding: 0 25px 0 9px;
+}
+
+.block-sign-in-form .select-j:after, .block-sign-in-form div.phone_code .tooltip-wrapper-j:before, .contain-cashier-forms .select-block:after, .left-block-history .form-sign-in div.select-block:after {
+    color: rgb(42, 52, 62);
+    pointer-events: none;
+}
+
+
+
+.freebet-wrapper-view-v3>.superbet-contain-view-v3.active {
+    background: #052b46;
+    background: -moz-linear-gradient(-15deg, #007099 0%,#052b46 52%); 
+    background: -webkit-linear-gradient(-15deg, #007099 0%,#052b46 52%);
+    background: linear-gradient(100deg, #007099 0%,#052b46 52%);
+}
+
+
+
+.superbet-contain-view-v3.active {
+    background: #052b46;
+background: -moz-linear-gradient(45deg, #007099 0%, #052b46 65%); 
+background: -webkit-linear-gradient(45deg, #007099 0%,#052b46 65%); 
+background: linear-gradient(45deg, #007099 0%,#052b46 65%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#007099', endColorstr='#052b46',GradientType=1 );
+}
+
+
+.icon-superbet-view-v3 {
+    background: url(../images/superbet-logo.png) no-repeat 0 0;
+    height: 103px;
+}
+
+
+.freebet-wrapper-view-v3>.superbet-contain-view-v3.active {
+    background: #052b46;
+    background: -moz-linear-gradient(-15deg, #007099 0%,#052b46 52%); 
+    background: -webkit-linear-gradient(-15deg, #007099 0%,#052b46 52%);
+    background: linear-gradient(-15deg, #007099 0%,#052b46 52%);
+}
+
+.freebet-wrapper-view-v3 .superbet-contain-view-v3 .icon-superbet-view-v3 {
+    box-sizing: border-box;
+    background: url(../images/freebet_animation_.gif) no-repeat 0 0;
+    top: -30px;
+        right: 5px;
+}
+
+
+
+
+
+@media screen and (min-width: 1359px)
+.center-column-v3 {
+    width: calc(100% - 625px);
+
+}
+
+.right-column-v3 {
+    width: 304px;
+}
 
 
 
@@ -5,6 +132,16 @@
 
 
 
+
+
+
+
+
+
+
+
+
+/*///////  END OF COPY FROM WILLIAM ///////// */
 
 /* jul 22 */
 
