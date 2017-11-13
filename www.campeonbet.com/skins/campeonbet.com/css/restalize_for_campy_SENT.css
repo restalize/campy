@@ -9,7 +9,23 @@
 
 
 
+.providers-nav-casino.closed {
+    animation: provider-closed-animate-b 280ms ease;
+    max-height: 42px;
+}
 
+
+@media only screen and (min-width: 1700px)
+.providers-nav-casino>ul {
+    max-width: calc(100% - 100px);
+}
+
+@media screen and (min-width: 1350px)
+.responsive-header-mainMenu-j>li {
+    padding: 0 0 0 360px!important;
+    max-width: 850px;
+    float: left;
+}
 
 
 
