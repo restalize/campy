@@ -1,16 +1,10 @@
-@media only screen and (min-width: 1700px)
-.providers-nav-casino ul {
-    max-width: 100%!important;
-    margin-right: -110px!important;
-    padding-right: 110px!important;
-}
-
-@media only screen and (min-width: 1700px)
-.providers-nav-casino {
-    max-width: 100%;
+@media only screen and (min-width: 1700px) {
+	.providers-nav-casino > ul {
+	max-width: 100%;
     margin-right: -110px;
     padding-right: 110px;
-}
+	}
+
 
 .more-button-prviter-nav {
     font-weight: bold;
