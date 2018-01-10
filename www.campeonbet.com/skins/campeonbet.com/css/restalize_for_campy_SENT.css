@@ -8,7 +8,17 @@
 
 
 
+@media only screen and (min-width: 1700px) {
+	.providers-nav-casino > ul {
+	max-width: 100%;
+    margin-right: -110px;
+    padding-right: 110px;
+	}
+}
 
+.more-button-prviter-nav {
+    font-weight: bold;
+}
 
 .providers-nav-casino.closed {
 	animation: provider-closed-animate-b 280ms ease;
@@ -5707,6 +5717,28 @@ input#uploadFilePassport {
 .single-events-b-v3.active > .mini-box-market-info-v3 > span {
 	color: #172631;
 }
+
+.block-sign-in-form .select-j:after, .contain-cashier-forms .select-block:after, .left-block-history .form-sign-in div.select-block:after, .settings-info-contain .select-block:after {
+    font: 24px icomoon;
+    right: 0px;
+    top: 0px;
+    background-color: #ffbc00;
+    background: -webkit-linear-gradient(#ffd403, #ffad02);
+    width: 34px;
+    height: 28px;
+    padding-top: 6px;
+    border: solid 1px #bba158;
+}
+
+
+@media only screen and (min-width: 1700px)
+{
+.providers-nav-casino > ul {
+    max-width: calc(100% - 122px);
+    width: auto;
+}
+}
+
 
 .button-container-j button {
 	color: #172631;
